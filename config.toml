@@ -17,4 +17,10 @@ highlight_code = true
 
 [extra]
 # Put all your custom variables here
-d3_nav = [{ name = "home", path = "/" }]
+d3_nav = [
+   { name = "home", path = "/" },
+   { name = "creation", path = "/creation/" },
+   { name = "consumption", path = "/consumption/" }
+]
+
+d3_author = "hhh"
