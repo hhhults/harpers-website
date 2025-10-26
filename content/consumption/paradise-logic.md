@@ -1,0 +1,11 @@
++++
+title = "Sophie Kemp, Paradise Logic"
+description = "I found this book on twitter"
+date = 2025-10-26
++++
+Someone on my timeline said this book was delightfully, surreal-ly gen z, and I consider myself to kind of
+be like that as well so I decided to read it. I don't read many book these days honestly, but after receiving this in 
+the mail from amazon.com I read it in two sittings. It is delectable in the type of way that makes you sad.
+ I think what I liked the most about this book was how weird the main character is, the parts of her that I can see
+ in people who I know and love. The prose is of a style that I have not encountered in a book before. It Capitalizes Things for Emphasis when necessary, and it also plays with form in fun ways. The little doodles make it feel like you are reading a zine about the main character's life, perhaps because in a way you kind of are? It really felt nice to put
+ in my brain, besides the horrors. This book is about not being loved, wanting to be loved, wanting to be loved to the point of depersonalization. It hit home in ways I did not expect. Probably my main gripe with the book was how shallow most parts of it felt. I understand the allure of writing something that is just story, but I think I have been spoiled in books I have recently read by the amount of lushness of exposition, and this book didn't really have it. The plot was so incredibly made to not have backstory that the author took a dozen or so pages at the end of the book to send us to a make believe land where we get to hear about some of the characters' backstories. She does it at a point when you are so invested in the ending you have no choice but to read it. It could've been interspersed more throughout the book, I think, but that would've killed the momentum. The book has quite the momentum. Time passes like it's being poured out. This is a good book and I would recommend it to my friends. For context, the first person I recommended it to read it in one sitting at the party that I recommended it to her at.
